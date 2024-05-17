@@ -2,7 +2,7 @@
 
 
 ## Getting started with R and RStudio
-Need to create repo
+[installing_updating_R-RStudio](https://github.com/DS3-2024/installing_updating_R-RStudio)
 
 ## Introduction to reproducible data analysis using R and RStudio
 [tidy_data_exercise](https://github.com/DS3-2024/tidy_data_exercise)
