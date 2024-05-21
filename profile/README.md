@@ -1,7 +1,7 @@
 # Course Materials for Data Science for Diverse Scholars in Down Syndrome Research (DS3) 2024  
 
 ## Morning sessions: Short Read Sequencing Workshop
-Course website: [](https://biodatasci.colorado.edu/shortread/)
+Course website: [Short Read Sequencing Workshop](https://biodatasci.colorado.edu/shortread/)
 
 GitHub repository: [Dowell-Lab/sr2023](https://github.com/Dowell-Lab/sr2023)
 
