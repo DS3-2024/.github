@@ -1,9 +1,15 @@
 # Course Materials for Data Science for Diverse Scholars in Down Syndrome Research (DS3) 2024  
+<!-- Any other info/links here? -->
 
 ## Morning sessions: Short Read Sequencing Workshop
 Course website: https://biodatasci.colorado.edu/shortread/
 
 GitHub repository: [Dowell-Lab/sr2023](https://github.com/Dowell-Lab/sr2023)
+
+<!-- This content will not appear in the rendered Markdown -->
+<!-- Add section here for Day 1? -->
+<!-- Add links to slides for each day? -->
+<!-- Add numbers or day labels to each heading? -->
 
 ## Getting started with R and RStudio
 GitHub repository: [installing_updating_R-RStudio](https://github.com/DS3-2024/installing_updating_R-RStudio)
@@ -19,6 +25,7 @@ GitHub repository: [linear_regression_exercise](https://github.com/DS3-2024/line
 GitHub repository: [HTP_linear_regression_example](https://github.com/DS3-2024/HTP_linear_regression_example)
 
 ## Analysis of bulk RNAseq data in R 
+<!-- Check timing with Mary/Robin -->
 GitHub repository: [HTP_DESeq2_analysis](https://github.com/DS3-2024/HTP_DESeq2_analysis)
 
 GitHub repository: HTP_RNAseq_results_viz (Need to create repo)
@@ -27,14 +34,18 @@ GitHub repository: HTP_RNAseq_results_viz (Need to create repo)
 GitHub repository: Need to create repo
 
 ## Day 7 3-5 pm Clustering with HTP example 
+<!-- Need title from Jim -->
 GitHub repository: Need to create repo
 
 ## Day 8 3-5 pm Machine learning with HTP example
+<!-- Need title from Jim -->
 GitHub repository: Need to create repo
 
 ## Analysis with R on CAVATICA
+GitHub repository: [R_analysis_CAVATICA](https://github.com/DS3-2024/R_analysis_CAVATICA)
 
 ## Day 10 3-5 pm Extra
+<!-- Need title / content? -->
 More HTP data types?  
 Other analyses? eg Fisher, Wilcox?  
 
