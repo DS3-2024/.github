@@ -25,7 +25,7 @@ Slides: <!-- Add links to slides for each day -->
 An introduction to important concepts in omics and best practices in data science.  
 Slides: <!-- Add links to slides for each day -->
 
-Getting started with R and RStudio 
+Getting started with R and RStudio  
 GitHub repository: [installing_updating_R-RStudio](https://github.com/DS3-2024/installing_updating_R-RStudio)
 
 ## Day 3: Reproducible data analysis using R and RStudio
