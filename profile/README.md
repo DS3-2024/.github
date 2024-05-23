@@ -1,5 +1,6 @@
 # Course Materials for Data Science for Diverse Scholars in Down Syndrome Research (DS3) 2024  
 Course Description:
+
 Course website:
 <!-- Any other info/links here? -->
 
@@ -15,19 +16,19 @@ GitHub repository: [Dowell-Lab/sr2023](https://github.com/Dowell-Lab/sr2023)
 
 # Afternoon sessions (2-4pm)
 
-### Day 1: The Human Trisome Project 
+## Day 1: The Human Trisome Project 
 An overview of the Human Trisome Project and the journey from data to discovery.  
 Slides: <!-- Add links to slides for each day -->
 
 <!-- Is this the correct title for Day 2?? -->
-### Day 2: Omics and Data Science Concepts
+## Day 2: Omics and Data Science Concepts
 An introduction to important concepts in omics and best practices in data science.  
 Slides: <!-- Add links to slides for each day -->
 
 Getting started with R and RStudio 
 GitHub repository: [installing_updating_R-RStudio](https://github.com/DS3-2024/installing_updating_R-RStudio)
 
-### Day 3: Reproducible data analysis using R and RStudio
+## Day 3: Reproducible data analysis using R and RStudio
 A guide to conducting reproducible data analysis in R using RStudio and tidy principles.  
 Slides: <!-- Add links to slides for each day -->
 
@@ -35,7 +36,7 @@ GitHub repository: [tidy_data_exercise](https://github.com/DS3-2024/tidy_data_ex
 
 GitHub repository: [Rproject_template](https://github.com/DS3-2024/Rproject_template)
 
-### Day 4: Linear regression analysis of omics data in R
+## Day 4: Linear regression analysis of omics data in R
 An introduction to hypothesis testing and analysis of data using linear regression.  
 Slides: <!-- Add links to slides for each day -->
 
@@ -43,7 +44,7 @@ GitHub repository: [linear_regression_exercise](https://github.com/DS3-2024/line
 
 GitHub repository: [HTP_linear_regression_example](https://github.com/DS3-2024/HTP_linear_regression_example)
 
-### Day 5: Analysis of bulk RNAseq data in R 
+## Day 5: Analysis of bulk RNAseq data in R 
 An overview of the high-throughput sequencing analysis workflow, quality control, and bulk RNA-sequencing analysis in R.  
 Slides: <!-- Add links to slides for each day -->
 
@@ -51,29 +52,29 @@ GitHub repository: [HTP_DESeq2_analysis](https://github.com/DS3-2024/HTP_DESeq2_
 
 GitHub repository: HTP_RNAseq_results_viz (Need to create repo)
 
-### Day 6: Clustering analysis with HTP example 
+## Day 6: Clustering analysis with HTP example 
 <!-- Need to confirm title with Jim -->
 <!-- Need get short description from Jim -->
 GitHub repository: Need to create repo(s)
 
-### Day 7: Machine learning with HTP example
+## Day 7: Machine learning with HTP example
 <!-- Need to confirm title with Jim -->
 <!-- Need get short description from Jim -->
 GitHub repository: Need to create repo(s)
 
-### Day 8: Analysis of mass cytometry data in R
+## Day 8: Analysis of mass cytometry data in R
 Introduction to high-dimensional single cell analysis using HTP mass cytometry data.  
 Slides: <!-- Add links to slides for each day -->
 
 GitHub repository: Need to create repo(s)
 
-### Day 9: Analysis of INCLUDE data with R using Cavatica
+## Day 9: Analysis of INCLUDE data with R using Cavatica
 A guide to the INCLUDE Data Hub and how to transfer data to the Cavatica platform for analysis. 
 Slides: <!-- Add links to slides for each day -->
 
 GitHub repository: [R_analysis_CAVATICA](https://github.com/DS3-2024/R_analysis_CAVATICA)
 
-### Day 10: Flexible
+## Day 10: Flexible
 <!-- Need title / content? -->
 <!-- Time to finish earlier scripts etc -->
 <!-- More HTP data types?   -->
