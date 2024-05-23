@@ -1,7 +1,9 @@
 # Course Materials for Data Science for Diverse Scholars in Down Syndrome Research (DS3) 2024  
+Course Description:
+Course website:
 <!-- Any other info/links here? -->
 
-## Morning sessions: Short Read Sequencing Workshop
+# Morning sessions: Short Read Sequencing Workshop
 Course website: https://biodatasci.colorado.edu/shortread/
 
 GitHub repository: [Dowell-Lab/sr2023](https://github.com/Dowell-Lab/sr2023)
@@ -11,7 +13,7 @@ GitHub repository: [Dowell-Lab/sr2023](https://github.com/Dowell-Lab/sr2023)
 <!-- Add links to slides for each day -->
 <!-- Add numbers or day labels to each heading? -->
 
-## Afternoon sessions (2-4pm)
+# Afternoon sessions (2-4pm)
 
 ### Day 1: The Human Trisome Project 
 An overview of the Human Trisome Project and the journey from data to discovery.  
@@ -68,7 +70,7 @@ GitHub repository: Need to create repo(s)
 ### Day 9: Analysis of INCLUDE data with R using Cavatica
 A guide to the INCLUDE Data Hub and how to transfer data to the Cavatica platform for analysis. 
 Slides: <!-- Add links to slides for each day -->
- 
+
 GitHub repository: [R_analysis_CAVATICA](https://github.com/DS3-2024/R_analysis_CAVATICA)
 
 ### Day 10: Flexible
