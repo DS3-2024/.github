@@ -29,7 +29,7 @@ Getting started with R and RStudio
 GitHub repository: [installing_updating_R-RStudio](https://github.com/DS3-2024/installing_updating_R-RStudio)
 
 Alternatives to running locally:  
-[Posit Cloud](https://posit.cloud/)
+[Posit Cloud](https://posit.cloud/)  
 [Cavatica](https://www.cavatica.org/)
 
 ## Day 3: Reproducible data analysis using R and RStudio
