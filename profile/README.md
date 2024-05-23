@@ -54,8 +54,6 @@ Slides: <!-- Add links to slides for each day -->
 
 GitHub repository: [HTP_DESeq2_analysis](https://github.com/DS3-2024/HTP_DESeq2_analysis)
 
-GitHub repository: HTP_RNAseq_results_viz (Need to create repo)
-
 ## Day 6: Clustering analysis with HTP example 
 <!-- Need to confirm title with Jim -->
 <!-- Need get short description from Jim -->
