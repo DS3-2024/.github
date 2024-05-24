@@ -54,12 +54,12 @@ Slides: <!-- Add links to slides for each day -->
 
 GitHub repository: [HTP_DESeq2_analysis](https://github.com/DS3-2024/HTP_DESeq2_analysis)
 
-## Day 6: Clustering analysis with HTP example 
+## Day 6: Visualization and clustering analysis with HTP examples 
 <!-- Need to confirm title with Jim -->
 <!-- Need get short description from Jim -->
 GitHub repository: Need to create repo(s)
 
-## Day 7: Machine learning with HTP example
+## Day 7: Supervised Machine Learning with HTP examples
 <!-- Need to confirm title with Jim -->
 <!-- Need get short description from Jim -->
 GitHub repository: Need to create repo(s)
@@ -68,7 +68,9 @@ GitHub repository: Need to create repo(s)
 Introduction to high-dimensional single cell analysis using HTP mass cytometry data.  
 Slides: <!-- Add links to slides for each day -->
 
-GitHub repository: Need to create repo(s)
+GitHub repository: [HTP_beta_regression_example](https://github.com/DS3-2024/HTP_beta_regression_example)
+
+GitHub repository: Need to create data viz repo
 
 ## Day 9: Analysis of INCLUDE data with R using Cavatica
 A guide to the INCLUDE Data Hub and how to transfer data to the Cavatica platform for analysis. 
