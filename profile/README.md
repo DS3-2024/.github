@@ -70,7 +70,7 @@ Slides: <!-- Add links to slides for each day -->
 
 GitHub repository: [HTP_beta_regression_example](https://github.com/DS3-2024/HTP_beta_regression_example)
 
-GitHub repository: Need to create data viz repo
+GitHub repository: [mass_cytometry_dataviz](https://github.com/DS3-2024/mass_cytometry_dataviz)
 
 ## Day 9: Analysis of INCLUDE data with R using Cavatica
 A guide to the INCLUDE Data Hub and how to transfer data to the Cavatica platform for analysis. 
