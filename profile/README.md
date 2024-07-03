@@ -1,11 +1,10 @@
 # Course Materials for Data Science for Diverse Scholars in Down Syndrome Research (DS3) 2024  
-Course Description:
-
-Course website:
+<!-- Course Description: -->
+Main course website: https://includeds3.org/
 <!-- Any other info/links here? -->
 
 # Morning sessions: Short Read Sequencing Workshop
-Course website: https://biodatasci.colorado.edu/shortread/
+Website: https://biodatasci.colorado.edu/shortread/
 
 GitHub repository: [Dowell-Lab/sr2023](https://github.com/Dowell-Lab/sr2023)
 
