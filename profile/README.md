@@ -17,11 +17,13 @@ GitHub repository: [Dowell-Lab/sr2023](https://github.com/Dowell-Lab/sr2023)
 # Afternoon sessions (2-4pm)
 
 ## Day 1: The Human Trisome Project 
+Instructor: Matthew Galbraith  
 An overview of the Human Trisome Project and the journey from data to discovery.  
 Slides: <!-- Add links to slides for each day -->
 
 <!-- Is this the correct title for Day 2?? -->
 ## Day 2: Omics and Data Science Concepts
+Instructor: Matthew Galbraith  
 An introduction to important concepts in omics and best practices in data science.  
 Slides: <!-- Add links to slides for each day -->
 
@@ -33,6 +35,7 @@ Alternatives to running locally:
 [Cavatica](https://www.cavatica.org/)
 
 ## Day 3: Reproducible data analysis using R and RStudio
+Instructor: Matthew Galbraith  
 A guide to conducting reproducible data analysis in R using RStudio and tidy principles.  
 Slides: <!-- Add links to slides for each day -->
 
@@ -41,6 +44,7 @@ GitHub repository: [tidy_data_exercise](https://github.com/DS3-2024/tidy_data_ex
 GitHub repository: [Rproject_template](https://github.com/DS3-2024/Rproject_template)
 
 ## Day 4: Linear regression analysis of omics data in R
+Instructor: Matthew Galbraith  
 An introduction to hypothesis testing and analysis of data using linear regression.  
 Slides: <!-- Add links to slides for each day -->
 
@@ -49,22 +53,26 @@ GitHub repository: [linear_regression_exercise](https://github.com/DS3-2024/line
 GitHub repository: [HTP_linear_regression_example](https://github.com/DS3-2024/HTP_linear_regression_example)
 
 ## Day 5: Analysis of bulk RNAseq data in R 
+Instructor: Matthew Galbraith  
 An overview of the high-throughput sequencing analysis workflow, quality control, and bulk RNA-sequencing analysis in R.  
 Slides: <!-- Add links to slides for each day -->
 
 GitHub repository: [HTP_DESeq2_analysis](https://github.com/DS3-2024/HTP_DESeq2_analysis)
 
 ## Day 6: Visualization and clustering analysis with HTP examples 
+Instructor: Jim Costello   
 <!-- Need to confirm title with Jim -->
 <!-- Need get short description from Jim -->
-GitHub repository: Need to create repo(s)
+<!-- GitHub repository: Need to create/link repo(s)? -->
 
 ## Day 7: Supervised Machine Learning with HTP examples
+Instructor: Jim Costello   
 <!-- Need to confirm title with Jim -->
 <!-- Need get short description from Jim -->
-GitHub repository: Need to create repo(s)
+<!-- GitHub repository: Need to create/link repo(s)? -->
 
 ## Day 8: Analysis of mass cytometry data in R
+Instructor: Matthew Galbraith  
 Introduction to high-dimensional single cell analysis using HTP mass cytometry data.  
 Slides: <!-- Add links to slides for each day -->
 
@@ -73,12 +81,14 @@ GitHub repository: [HTP_beta_regression_example](https://github.com/DS3-2024/HTP
 GitHub repository: [mass_cytometry_dataviz](https://github.com/DS3-2024/mass_cytometry_dataviz)
 
 ## Day 9: Analysis of INCLUDE data with R using Cavatica
+Instructor: Matthew Galbraith  
 A guide to the INCLUDE Data Hub and how to transfer data to the Cavatica platform for analysis. 
 Slides: <!-- Add links to slides for each day -->
 
 GitHub repository: [R_analysis_CAVATICA](https://github.com/DS3-2024/R_analysis_CAVATICA)
 
 ## Day 10: Flexible
+Instructor: Matthew Galbraith  
 <!-- Need title / content? -->
 <!-- Time to finish earlier scripts etc -->
 <!-- More HTP data types?   -->
