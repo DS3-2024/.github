@@ -60,15 +60,11 @@ GitHub repository: [HTP_DESeq2_analysis](https://github.com/DS3-2024/HTP_DESeq2_
 
 ## Day 6: Visualization and clustering analysis with HTP examples 
 Instructor: Jim Costello   
-<!-- Need to confirm title with Jim -->
-<!-- Need get short description from Jim -->
-<!-- GitHub repository: Need to create/link repo(s)? -->
+An overview of data visualization, dimension reduction, and clustering methods leveraging HTP datasets.  
 
 ## Day 7: Supervised Machine Learning with HTP examples
 Instructor: Jim Costello   
-<!-- Need to confirm title with Jim -->
-<!-- Need get short description from Jim -->
-<!-- GitHub repository: Need to create/link repo(s)? -->
+Applications of simple machine learning methods to predict outcomes leveraging HTP datasets.  
 
 ## Day 8: Analysis of mass cytometry data in R
 Instructor: Matthew Galbraith  
