@@ -6,7 +6,7 @@
 # Morning sessions: Short Read Sequencing Workshop
 Website: https://biodatasci.colorado.edu/shortread/
 
-GitHub repository: [Dowell-Lab/sr2023](https://github.com/Dowell-Lab/sr2023)
+GitHub repository: [Dowell-Lab/srworkshop](https://github.com/Dowell-Lab/srworkshop)
 
 <!-- This content will not appear in the rendered Markdown -->
 <!-- Add brief summary/sentence for each day? -->
