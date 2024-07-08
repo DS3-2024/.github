@@ -1,6 +1,6 @@
 # Course Materials for Data Science for Diverse Scholars in Down Syndrome Research (DS3) 2024  
 <!-- Course Description: -->
-Main course website: https://includeds3.org/
+<!-- Main course website: https://includeds3.org/ -->
 <!-- Any other info/links here? -->
 
 # Morning sessions: Short Read Sequencing Workshop
