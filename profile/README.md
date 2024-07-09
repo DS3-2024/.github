@@ -85,7 +85,7 @@ A guide to the INCLUDE Data Hub and how to transfer data to the Cavatica platfor
 
 GitHub repository: [R_analysis_CAVATICA](https://github.com/DS3-2024/R_analysis_CAVATICA)
 
-## Day 10: Flexible
+## Day 10: Data Analysis with R Continued
 Instructor: Matthew Galbraith  
 <!-- Need title / content? -->
 <!-- Time to finish earlier scripts etc -->
